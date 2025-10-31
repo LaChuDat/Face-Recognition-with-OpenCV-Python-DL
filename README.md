@@ -1,5 +1,5 @@
-Trong các bài trước chúng ta đã tìm hiểu về face recognition. Hôm này chúng ta sẽ đi nhận diện khuôn mặt trong ảnh và video với OpenCV, Python và Deep Learning (thư viện chính là `face_recognition`)
-
+Bài tập lớn: Nhận dạng mẫu
+Nhận dạng khuôn mặt
 Thư viện `dlib` chứa implementation của "deep learning metric" được sử dụng để xây dựng facial embeddings (cái này sẽ dùng để thực hiện face recognition).
 
 Thư viện `face_recognition` hỗ trợ tốt cho các hàm trong `dlib` giúp chúng ta làm việc dễ hơn. 
